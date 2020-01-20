@@ -1,0 +1,406 @@
+/* Heading Part start */
+.header_wrapper {
+    background-color: white;
+}
+
+.header {
+    margin-top: 0%;
+    margin-bottom: 0%
+}
+
+.icon > a {
+    color: gray;
+    padding: 2%;
+
+}
+
+.list-inline-item {
+    margin-top: 3%;
+}
+
+.login_icon > a {
+    font-size: 14px;
+    font-family: 'Halant', serif;
+    color: gray;
+    padding: 2%;
+}
+
+.menu_bg {
+    position: relative;
+    background-color: #e1bdaf;
+    height: 80px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.logo > a > img {
+    margin-top: 5%;
+    width: 200px;
+}
+
+.menubar {
+    padding-top: .75%
+}
+
+.navbar {
+    background: #e1bdaf;
+}
+
+.navbar-toggler {
+
+    border: 1px solid white;
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
+
+.menu_list > ul > li > a {
+
+    font-size: 20px;
+    font-family: 'Halant', serif;
+    color: white;
+    font-weight: 100;
+
+
+}
+
+.dropdown-item {
+    font-family: 'Halant', serif;
+}
+
+.search_icon {
+
+    font-size: 25px;
+    color: white;
+    padding: 1%;
+}
+
+
+
+/*slder part start*/
+.carousel-item {
+    height: 700px;
+}
+
+.carousel-caption > h1 {
+    z-index: 6;
+    white-space: nowrap;
+    font-size: 90px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(114, 116, 117);
+    font-family: 'Meddon', cursive;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    border-width: 0px;
+    margin-bottom: 300px;
+    padding: 0px;
+    letter-spacing: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: none;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+
+}
+
+/*slder part end*/
+
+/*Our shop part start*/
+.our_shop {
+    font-family: 'Halant', serif;
+    color: rgb(114, 116, 117);
+    padding: 3%
+}
+
+.our_shop > h1 {
+    font-size: 40px;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+
+}
+
+.our_shop > h4 {
+    opacity: 0.6;
+}
+
+/*card part start*/
+.dress {
+    padding: 1%;
+}
+
+.dress_card {
+    border: 1px solid gray;
+    transition: all 1.5s;
+}
+
+.dress_card:hover {
+    transform: scale(1.1);
+}
+
+.dress_card > h6 {
+    font-size: 17px;
+    line-height: 17px;
+    padding: 20px;
+    background-color: #565656;
+    color: #fff;
+    font-family: 'Halant', serif;
+}
+
+.dress_card > p {
+    font-family: 'Halant', serif;
+    color: #a4a4a4 !important;
+    font-size: 16px !important;
+    line-height: 16px !important;
+    margin-bottom: 0;
+}
+
+.checked {
+    color: gray;
+}
+
+.card_content {
+    margin: 0;
+}
+
+.btn_add_cart {
+    font-family: 'Halant', serif;
+    margin-top: 0;
+    margin-bottom: 2%;
+}
+
+
+.second_card {
+    margin-top: 5%;
+}
+
+/*Our shop part end*/
+
+/*find out part start*/
+
+.find_out_wrapper {
+    height: 535px;
+    background-color: #353535;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.left_side {
+    padding: 0;
+}
+
+.left_side > img {
+    height: 535px;
+}
+
+.right_side {
+    background-color: #353535;
+}
+
+.right_side_content > h1 {
+    font-family: 'Halant', serif;
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 45px;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.right_side_content > p {
+    font-family: 'Halant', serif;
+    color: #ffffff;
+    margin-top: 3%;
+    margin-bottom: 0;
+}
+
+.findout_icon > a {
+    font-size: 30px;
+    color: white;
+    padding: 2%;
+}
+
+.right_side_content {
+    margin-top: 17%;
+    margin-left: 10%;
+}
+
+/*find out part end*/
+
+
+/*our proposals part start*/
+
+.proposal_card {
+    border: 1px solid gray;
+    transition: all 1.5s;
+}
+
+.proposal_card:hover {
+    transform: scale(1.1);
+}
+
+.proposal_content > h6 {
+    font-family: 'Halant', serif;
+    font-size: 20px;
+    margin-top: 5%;
+    font-weight: 100;
+}
+
+.proposal_content > h1 {
+    font-family: 'Halant', serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.btn_more_details {
+    font-family: 'Halant', serif;
+    margin-top: 0;
+    margin-bottom: 0%;
+
+}
+
+/*our proposals part end*/
+
+/*wedding view part start*/
+.wedding_picture {
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+
+.wedding_view {
+    margin: 0;
+    padding: 0;
+    opacity: 0.7;
+}
+
+.wedding-view:hover {}
+
+/*wedding view part end*/
+
+/*blog part start*/
+.blog_page {
+    font-family: 'Halant', serif;
+    color: rgb(114, 116, 117);
+    padding: 3%
+}
+
+.blog_page > h1 {
+    font-size: 40px;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+
+}
+
+.blog_page > h4 {
+    opacity: 0.6;
+}
+
+.blog {
+    border: 1px solid gray;
+    padding: 0;
+    transition: all 1.2s;
+    opacity: 0.7;
+
+}
+
+.blog:hover {
+    margin-top: -5%;
+    opacity: 1;
+}
+
+.blog_card {
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+.blog_content {
+    padding: 4%;
+}
+
+.blog_content > p {
+    font-family: 'Halant', serif;
+    color: #a4a4a4;
+    margin: 1%;
+    padding: 0;
+
+}
+
+.blog_content > h1 {
+    color: #727475;
+    font-family: 'Halant', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.btn_read_more {
+    font-family: 'Halant', serif;
+}
+
+/*blog part end*/
+
+
+/*contact us part start*/
+.contactus_wrapper {
+    background: url(../images/slider3.jpg);
+    background-attachment: fixed;
+    padding: 100px 0;
+}
+
+.white_bg {
+    background-color: white;
+    margin: 0 auto;
+}
+
+.contact_form {
+    padding: 5%;
+}
+
+.contact_form > h1 {
+    color: #727475;
+    font-family: 'Halant', serif;
+    font-weight: bolder;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.contact_form > p {
+    font-family: 'Halant', serif;
+    color: #727475;
+}
+
+.form-group {
+    font-family: 'Halant', serif;
+}
+
+.btn_send {
+    font-family: 'Halant', serif;
+}
+
+/*contact us part end*/
+
+
+
+/*footer part start*/
+.footer_wrapper {
+    background-color: #565656;
+}
+
+.footer > p {
+    color: whitesmoke;
+    font-family: 'Halant', serif;
+    font-size: 17px;
+    font-weight: 100;
+    margin-top: 1%;
+
+}
+
+/*footer part end*/
+/* Heading Part end */
